@@ -6,7 +6,7 @@ import java.util.Set;
 import java.util.TreeSet;
 
 public class TreeSetDemo {
-    public static void main(String[] args){
+    public static void main(String[] args) {
         //declare a TreeSet
         Set<Integer> nums = new TreeSet<Integer>();
 
@@ -18,7 +18,7 @@ public class TreeSetDemo {
 
         //print values of TreeSet through for each loop
         System.out.println("print values of TreeSet through for each loop:");
-        for (int n:nums){
+        for (int n : nums) {
             System.out.println(n);
         }
 
@@ -26,9 +26,9 @@ public class TreeSetDemo {
         Iterator values = nums.iterator();
         //print values of TreeSet through iterator
         System.out.println("print values of TreeSet through iterator:");
-        while (values.hasNext()){
+        while (values.hasNext()) {
             System.out.println(values.next());
         }
-        
+
     }
 }

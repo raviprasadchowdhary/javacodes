@@ -6,7 +6,7 @@ import java.util.Iterator;
 import java.util.Set;
 
 public class HashSetDemo {
-    public static void main(String[] args){
+    public static void main(String[] args) {
 
         //Declare a hashset
         HashSet<Integer> nums = new HashSet<Integer>();
@@ -19,14 +19,14 @@ public class HashSetDemo {
 
         //print values of hash set by for each loop
         System.out.println("print values of hash set by for each loop");
-        for (int n:nums){
+        for (int n : nums) {
             System.out.println(n);
         }
 
         //iterator
         Iterator<Integer> values = nums.iterator();
         System.out.println("print values of hash set by iterator");
-        while (values.hasNext()){
+        while (values.hasNext()) {
             System.out.println(values.next());
         }
 
