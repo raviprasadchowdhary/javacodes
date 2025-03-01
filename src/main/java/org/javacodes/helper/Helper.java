@@ -11,4 +11,10 @@ public class Helper {
 		return input;
 	}
 
+	public static int readSingleInputInteger(){
+		Scanner scanner = new Scanner(System.in);
+		System.out.println("Enter an Integer: ");
+		int input = scanner.nextInt();
+		return input;
+	}
 }
