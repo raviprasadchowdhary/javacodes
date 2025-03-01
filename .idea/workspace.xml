@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31b0b91a-c862-4898-ad88-508fd1cf351c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/javacodes/core/pattern/RightAngledTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javacodes/core/pattern/FloydTriangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/javacodes/helper/Helper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/javacodes/helper/Helper.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +50,7 @@
   "keyToString": {
     "Application.ArrayListDemo.executor": "Run",
     "Application.BalancedParentheses.executor": "Run",
+    "Application.FloydTriangle.executor": "Run",
     "Application.HashMapDemo.executor": "Run",
     "Application.HashSetDemo.executor": "Run",
     "Application.Main.executor": "Run",
@@ -73,7 +73,7 @@
       <recent name="org.javacodes.core.collections.map" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RightAngledTriangle">
+  <component name="RunManager" selected="Application.FloydTriangle">
     <configuration name="BalancedParentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.javacodes.core.strings.BalancedParentheses" />
       <module name="javacodes" />
@@ -100,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashMapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.javacodes.core.collections.map.HashMapDemo" />
+    <configuration name="FloydTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.javacodes.core.pattern.FloydTriangle" />
       <module name="javacodes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.javacodes.core.collections.map.*" />
+          <option name="PATTERN" value="org.javacodes.core.pattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FloydTriangle" />
         <item itemvalue="Application.RightAngledTriangle" />
         <item itemvalue="Application.Block" />
         <item itemvalue="Application.BalancedParentheses" />
         <item itemvalue="Application.Rough" />
-        <item itemvalue="Application.HashMapDemo" />
       </list>
     </recent_temporary>
   </component>
