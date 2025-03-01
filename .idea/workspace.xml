@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="31b0b91a-c862-4898-ad88-508fd1cf351c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/javacodes/Rough.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/javacodes/Rough.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/javacodes/core/strings/BalancedParenthesis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/javacodes/core/strings/BalancedParentheses.java" afterDir="false" />
-    </list>
+    <list default="true" id="31b0b91a-c862-4898-ad88-508fd1cf351c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,24 +43,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.ArrayListDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HashMapDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HashSetDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReverseString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Rough.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TreeMapDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TreeSetDemo.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/916992/github/javacodes&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/ravip/OneDrive/intelij/javacodes/src/main/java/org/example/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ArrayListDemo.executor": "Run",
+    "Application.BalancedParentheses.executor": "Run",
+    "Application.HashMapDemo.executor": "Run",
+    "Application.HashSetDemo.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.ReverseString.executor": "Run",
+    "Application.Rough.executor": "Run",
+    "Application.TreeMapDemo.executor": "Run",
+    "Application.TreeSetDemo.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/916992/github/javacodes",
+    "onboarding.tips.debug.path": "C:/Users/ravip/OneDrive/intelij/javacodes/src/main/java/org/example/Main.java"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="org.javacodes.core.collections.map" />
