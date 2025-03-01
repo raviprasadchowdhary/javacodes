@@ -1,19 +1,19 @@
-package org.javacodes;
+package org.javacodes.core.strings;
 
 import org.javacodes.helper.Helper;
 
 import java.util.Stack;
 
-public class Rough {
+public class BalancedParentheses {
     public static void main(String[] args) {
         String input = Helper.readSingleInputString();
 
-        if (input==null || input.isEmpty()){
+        if (input == null || input.isEmpty()) {
             System.out.println("Input is empty");
         } else if (balancedParentheses(input)) {
-            System.out.println("The expression: "+input+" is balanced");
-        }else {
-            System.out.println("The expression: "+input+" is not balanced");
+            System.out.println("The expression: " + input + " is balanced");
+        } else {
+            System.out.println("The expression: " + input + " is not balanced");
         }
     }
 
@@ -34,5 +34,6 @@ public class Rough {
             }
         }
         return stack.isEmpty();
+
     }
 }

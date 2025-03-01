@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31b0b91a-c862-4898-ad88-508fd1cf351c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/javacodes/core/strings/BalancedParenthesis.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/javacodes/Rough.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/javacodes/Rough.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/javacodes/core/strings/BalancedParenthesis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/javacodes/core/strings/BalancedParentheses.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,13 +70,13 @@
       <recent name="org.javacodes.core.collections.map" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HashMapDemo">
-    <configuration name="ArrayListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.javacodes.core.collections.list.ArrayListDemo" />
+  <component name="RunManager" selected="Application.BalancedParentheses">
+    <configuration name="BalancedParentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.javacodes.core.strings.BalancedParentheses" />
       <module name="javacodes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.javacodes.core.collections.list.*" />
+          <option name="PATTERN" value="org.javacodes.core.strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashSetDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.javacodes.core.collections.set.HashSetDemo" />
+    <configuration name="Rough" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.javacodes.Rough" />
       <module name="javacodes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.javacodes.core.collections.set.*" />
+          <option name="PATTERN" value="org.javacodes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BalancedParentheses" />
+        <item itemvalue="Application.Rough" />
         <item itemvalue="Application.HashMapDemo" />
         <item itemvalue="Application.TreeMapDemo" />
         <item itemvalue="Application.TreeSetDemo" />
-        <item itemvalue="Application.HashSetDemo" />
-        <item itemvalue="Application.ArrayListDemo" />
       </list>
     </recent_temporary>
   </component>
