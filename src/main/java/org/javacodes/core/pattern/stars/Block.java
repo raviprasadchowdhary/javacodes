@@ -1,4 +1,4 @@
-package org.javacodes.core.pattern;
+package org.javacodes.core.pattern.stars;
 
 public class Block {
     public static void main(String[] args){

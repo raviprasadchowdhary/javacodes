@@ -1,4 +1,4 @@
-package org.javacodes.core.pattern;
+package org.javacodes.core.pattern.numbers;
 
 import org.javacodes.helper.Helper;
 
