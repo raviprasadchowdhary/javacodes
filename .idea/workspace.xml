@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31b0b91a-c862-4898-ad88-508fd1cf351c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/javacodes/core/controlstatements/OddOrEven.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javacodes/core/controlstatements/PrimeNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,38 +46,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.ArrayListDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BalancedParentheses.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FloydTriangle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HashMapDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HashSetDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.InvertedPyramidTriangle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.InvertedRightAngledTriangle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pyramid.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PyramidTriangle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReverseString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RightAngledTriangle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Rough.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TreeMapDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TreeSetDemo.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ravip/OneDrive/Documents/GitHub/javacodes&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/ravip/OneDrive/intelij/javacodes/src/main/java/org/example/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ArrayListDemo.executor": "Run",
+    "Application.BalancedParentheses.executor": "Run",
+    "Application.FloydTriangle.executor": "Run",
+    "Application.HashMapDemo.executor": "Run",
+    "Application.HashSetDemo.executor": "Run",
+    "Application.InvertedPyramidTriangle.executor": "Run",
+    "Application.InvertedRightAngledTriangle.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.OddOrEven.executor": "Run",
+    "Application.PrimeNumber.executor": "Run",
+    "Application.Pyramid.executor": "Run",
+    "Application.PyramidTriangle.executor": "Run",
+    "Application.ReverseString.executor": "Run",
+    "Application.RightAngledTriangle.executor": "Run",
+    "Application.Rough.executor": "Run",
+    "Application.TreeMapDemo.executor": "Run",
+    "Application.TreeSetDemo.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/ravip/OneDrive/Documents/GitHub/javacodes",
+    "onboarding.tips.debug.path": "C:/Users/ravip/OneDrive/intelij/javacodes/src/main/java/org/example/Main.java",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="org.javacodes.core.collections.map" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.OddOrEven">
+  <component name="RunManager" selected="Application.PrimeNumber">
     <configuration name="InvertedPyramidTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.javacodes.core.pattern.stars.InvertedPyramidTriangle" />
       <module name="javacodes" />
@@ -118,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PyramidTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.javacodes.core.pattern.stars.PyramidTriangle" />
+    <configuration name="PrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.javacodes.core.controlstatements.PrimeNumber" />
       <module name="javacodes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.javacodes.core.pattern.stars.*" />
+          <option name="PATTERN" value="org.javacodes.core.controlstatements.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrimeNumber" />
         <item itemvalue="Application.OddOrEven" />
         <item itemvalue="Application.Rough" />
         <item itemvalue="Application.InvertedRightAngledTriangle" />
         <item itemvalue="Application.InvertedPyramidTriangle" />
-        <item itemvalue="Application.PyramidTriangle" />
       </list>
     </recent_temporary>
   </component>
