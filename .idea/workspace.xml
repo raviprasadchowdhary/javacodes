@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31b0b91a-c862-4898-ad88-508fd1cf351c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/javacodes/core/controlstatements/FibonacciSeries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javacodes/core/controlstatements/SwapTwoNumbersWithoutThirdVariable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/javacodes/helper/Helper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/javacodes/helper/Helper.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +65,7 @@
     "Application.ReverseString.executor": "Run",
     "Application.RightAngledTriangle.executor": "Run",
     "Application.Rough.executor": "Run",
+    "Application.SwapTwoNumbersWithoutThirdVariable.executor": "Run",
     "Application.TreeMapDemo.executor": "Run",
     "Application.TreeSetDemo.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -80,26 +82,13 @@
       <recent name="org.javacodes.core.collections.map" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FibonacciSeries">
+  <component name="RunManager" selected="Application.SwapTwoNumbersWithoutThirdVariable">
     <configuration name="FibonacciSeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.javacodes.core.controlstatements.FibonacciSeries" />
       <module name="javacodes" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.javacodes.core.controlstatements.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="InvertedRightAngledTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.javacodes.core.pattern.stars.InvertedRightAngledTriangle" />
-      <module name="javacodes" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.javacodes.core.pattern.stars.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,13 +135,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SwapTwoNumbersWithoutThirdVariable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.javacodes.core.controlstatements.SwapTwoNumbersWithoutThirdVariable" />
+      <module name="javacodes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.javacodes.core.controlstatements.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SwapTwoNumbersWithoutThirdVariable" />
         <item itemvalue="Application.FibonacciSeries" />
         <item itemvalue="Application.PrimeNumber" />
         <item itemvalue="Application.OddOrEven" />
         <item itemvalue="Application.Rough" />
-        <item itemvalue="Application.InvertedRightAngledTriangle" />
       </list>
     </recent_temporary>
   </component>
