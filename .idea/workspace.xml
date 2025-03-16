@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31b0b91a-c862-4898-ad88-508fd1cf351c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/javacodes/core/controlstatements/PrimeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javacodes/core/controlstatements/FibonacciSeries.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +50,7 @@
   "keyToString": {
     "Application.ArrayListDemo.executor": "Run",
     "Application.BalancedParentheses.executor": "Run",
+    "Application.FibonacciSeries.executor": "Run",
     "Application.FloydTriangle.executor": "Run",
     "Application.HashMapDemo.executor": "Run",
     "Application.HashSetDemo.executor": "Run",
@@ -79,13 +80,13 @@
       <recent name="org.javacodes.core.collections.map" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PrimeNumber">
-    <configuration name="InvertedPyramidTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.javacodes.core.pattern.stars.InvertedPyramidTriangle" />
+  <component name="RunManager" selected="Application.FibonacciSeries">
+    <configuration name="FibonacciSeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.javacodes.core.controlstatements.FibonacciSeries" />
       <module name="javacodes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.javacodes.core.pattern.stars.*" />
+          <option name="PATTERN" value="org.javacodes.core.controlstatements.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FibonacciSeries" />
         <item itemvalue="Application.PrimeNumber" />
         <item itemvalue="Application.OddOrEven" />
         <item itemvalue="Application.Rough" />
         <item itemvalue="Application.InvertedRightAngledTriangle" />
-        <item itemvalue="Application.InvertedPyramidTriangle" />
       </list>
     </recent_temporary>
   </component>
